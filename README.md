@@ -7,13 +7,13 @@
 --> Weight is the measure of the amount of force acting on a mass due to the acceleration due to gravity. Weight usually is denoted by W. Weight is mass multiplied by the acceleration of gravity (g).
 
 
-Comparing Mass and Weight
+## Comparing Mass and Weight
 
 --> For the most part, when comparing mass and weight on Earth—without moving!—the values for mass and weight are the same. If you change your location with respect to gravity, mass will remain unchanged, but weight will not.
 --> For example, your body's mass is a set value, but your weight is different on the Moon compared with on Earth.
 
 
-How Much Do You Weigh on Other Planets?
+## How Much Do You Weigh on Other Planets?
 
 --> While a person's mass doesn't change elsewhere in the solar system, the acceleration due to gravity and weight varies dramatically.
 --> The calculation of gravity on other bodies, as on Earth, depends not just on mass but also on how far the "surface" is from the center of gravity.
@@ -21,7 +21,7 @@ How Much Do You Weigh on Other Planets?
 
 --> Other celestial bodies have different values of gravity than Earth does. To get your weight, simply multiply by the appropriate number. For example, a 150-pound person would weigh 396 pounds on Jupiter, or 2.64 times their weight on Earth.
 
-| Body          | Multiple of Earth Gravity | Surface Gravity (m/s^2) |
+| **Body**          | **Multiple of Earth Gravity** | **Surface Gravity (m/s^2)** |
 | ------------- | ------------------------- | ------------------------|
 | Sun           | 27.90                     | 274.1                   |
 | Mercury       | 0.3770                    | 3.703                   |
