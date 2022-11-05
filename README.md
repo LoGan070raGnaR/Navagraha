@@ -39,6 +39,8 @@
 
 ## Other Dwarf Planets:
 
+- Gravitational Force on Dwarf Planets.
+
   | **Body**      | **Surface Gravity (m/s^2)** |
   | ------------- | --------------------------- |
   | Pluto         | 0.58                        |
