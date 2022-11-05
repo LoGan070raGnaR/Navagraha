@@ -51,4 +51,3 @@
 --> However, it may seem odd that you'd actually weigh less on the gas giant Uranus. Your weight would be only slightly higher on Saturn or Neptune.
 --> Although Mercury is much smaller than Mars, your weight would be about the same.
 --> The Sun is much more massive than any other body, yet you'd "only" weigh about 28 times more. Of course, you'd die on the Sun from the massive heat and other radiation, but even if it were cold, the intense gravity on a planet that size would be deadly.
-
