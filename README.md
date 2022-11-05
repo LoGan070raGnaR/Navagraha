@@ -21,7 +21,7 @@
 
 --> Other celestial bodies have different values of gravity than Earth does. To get your weight, simply multiply by the appropriate number. For example, a 150-pound person would weigh 396 pounds on Jupiter, or 2.64 times their weight on Earth.
 
-| **Body**          | **Multiple of Earth Gravity** | **Surface Gravity (m/s^2)** |
+|**Body**          | **Multiple of Earth Gravity** | **Surface Gravity (m/s^2)** |
 | ------------- | ------------------------- | ------------------------|
 | Sun           | 27.90                     | 274.1                   |
 | Mercury       | 0.3770                    | 3.703                   |
