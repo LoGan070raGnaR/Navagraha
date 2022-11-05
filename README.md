@@ -1,10 +1,12 @@
-# Navagraha-mass_and_weight_conveter
+# Navagraha - mass and weight conveter
 
 --> The terms "mass" and "weight" are used interchangeably in ordinary conversation, but the two words don't mean the same thing.
 --> The difference between mass and weight is that "mass" is the amount of matter in a material, while "weight" is a measure of how the force of gravity acts upon that mass.
 
---> Mass is the measure of the amount of matter in a body. Mass is denoted using m or M.
+--> Mass is the measure of the amount of matter in a body.
+--> Mass is denoted using m or M.
 --> Weight is the measure of the amount of force acting on a mass due to the acceleration due to gravity. Weight usually is denoted by W. Weight is mass multiplied by the acceleration of gravity (g).
+--> W=m∗g
 
 
 ## Comparing Mass and Weight
