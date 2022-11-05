@@ -3,7 +3,7 @@
 - Navagraha is a simple masss and weight conveter.
 - Some features of this project are :
   - For mass conversion :
-    --> We can convert mass in kg to lbs and vice versa.
+    - We can convert mass in kg to lbs and vice versa.
   - For weight conversion :
     - Here we can directly covert mass to weight on different planets in solar system.
     - Also, we can convert convert mass in kg to weight in lbs system and vice versa.
