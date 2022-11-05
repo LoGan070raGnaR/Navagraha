@@ -5,8 +5,8 @@
   - For mass conversion :
     --> We can convert mass in kg to lbs and vice versa.
   - For weight conversion :
-    --> Here we can directly covert mass to weight on different planets in solar system.
-    --> Also, we can convert convert mass in kg to weight in lbs system and vice versa.
+    - Here we can directly covert mass to weight on different planets in solar system.
+    - Also, we can convert convert mass in kg to weight in lbs system and vice versa.
 
 - The terms "mass" and "weight" are used interchangeably in ordinary conversation, but the two words don't mean the same thing.
 - The difference between mass and weight is that "mass" is the amount of matter in a material, while "weight" is a measure of how the force of gravity acts upon that mass.
