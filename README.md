@@ -21,16 +21,31 @@
 
 --> Other celestial bodies have different values of gravity than Earth does. To get your weight, simply multiply by the appropriate number. For example, a 150-pound person would weigh 396 pounds on Jupiter, or 2.64 times their weight on Earth.
 
-|**Body**          | **Multiple of Earth Gravity** | **Surface Gravity (m/s^2)** |
-| ------------- | ------------------------- | ------------------------|
-| Sun           | 27.90                     | 274.1                   |
-| Mercury       | 0.3770                    | 3.703                   |
-| Venus         | 0.9032                    | 8.872                   |
-| Earth         | 1 (defined)               | 9.8226                  |
-| Moon          | 0.165                     | 1.625                   |
-| Mars          | 0.3895                    | 3.728                   |
-| Jupiter       | 2.640                     | 25.93                   |
-| Saturn        | 1.139                     | 11.19                   |
-| Uranus        | 0.917                     | 9.01                    |
-| Neptune       | 1.148                     | 11.28                   |
+| **Body**      | **Multiple of Earth Gravity** | **Surface Gravity (m/s^2)** |
+| ------------- | ----------------------------- | --------------------------- |
+| Sun           | 27.90                         | 274.1                       |
+| Mercury       | 0.3770                        | 3.703                       |
+| Venus         | 0.9032                        | 8.872                       |
+| Earth         | 1 (defined)                   | 9.8226                      |
+| Moon          | 0.165                         | 1.625                       |
+| Mars          | 0.3895                        | 3.728                       |
+| Jupiter       | 2.640                         | 25.93                       |
+| Saturn        | 1.139                         | 11.19                       |
+| Uranus        | 0.917                         | 9.01                        |
+| Neptune       | 1.148                         | 11.28                       |
+
+
+## Other Dwarf Planets:
+
+| **Body**      | **Surface Gravity (m/s^2)** |
+| Pluto         | 0.58                        |
+| Ceres         | 0.27                        |
+| Makemake      | 0.5                         |
+| Haumea        | 0.63                        |
+| Eris          | 0.82                        |
+
+--> You may be surprised by your weight on other planets. It makes sense that a person would weigh about the same on Venus, because that planet is about the same size and mass as Earth.
+--> However, it may seem odd that you'd actually weigh less on the gas giant Uranus. Your weight would be only slightly higher on Saturn or Neptune.
+--> Although Mercury is much smaller than Mars, your weight would be about the same.
+--> The Sun is much more massive than any other body, yet you'd "only" weigh about 28 times more. Of course, you'd die on the Sun from the massive heat and other radiation, but even if it were cold, the intense gravity on a planet that size would be deadly.
 
