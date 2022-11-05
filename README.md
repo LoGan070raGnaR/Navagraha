@@ -38,6 +38,7 @@
 ## Other Dwarf Planets:
 
 | **Body**      | **Surface Gravity (m/s^2)** |
+| ------------- | --------------------------- |
 | Pluto         | 0.58                        |
 | Ceres         | 0.27                        |
 | Makemake      | 0.5                         |
