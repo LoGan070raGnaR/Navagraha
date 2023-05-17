@@ -1,3 +1,7 @@
+# Navagraha
+"Navagraha - Mass &amp; Weight Converter: Easily convert mass between kg and lbs, calculate weight on planets, and convert mass to weight in various units. Explore the difference between mass and weight with this open-source project. Simplify your calculations effortlessly!
+
+
 # Navagraha - mass and weight conveter
 
 - Navagraha is a simple masss and weight conveter.
@@ -61,3 +65,41 @@
 - However, it may seem odd that you'd actually weigh less on the gas giant Uranus. Your weight would be only slightly higher on Saturn or Neptune.
 - Although Mercury is much smaller than Mars, your weight would be about the same.
 - The Sun is much more massive than any other body, yet you'd "only" weigh about 28 times more. Of course, you'd die on the Sun from the massive heat and other radiation, but even if it were cold, the intense gravity on a planet that size would be deadly.
+
+
+## Project Structure
+
+The project includes the following files:
+
+- `navagraha.py`: The main Python script containing the code for mass and weight conversion.
+- `.gitignore`: Specifies the files and folders to be ignored by Git version control.
+- `LICENSE`: The license file specifying the terms and conditions for using the project.
+- `README.md`: This file provides an overview of the project and instructions for usage.
+
+
+## Getting Started
+
+To start using Navagraha, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Make sure you have Python installed. You can download and install Python from the official website: [https://www.python.org/](https://www.python.org/)
+3. Open the `navagraha.py` file in your preferred Python editor or IDE.
+4. Customize the conversion options or add any additional features, if needed.
+5. Run the script and follow the instructions to perform mass and weight conversions.
+
+
+## Dependencies
+
+Navagraha requires the following dependencies:
+
+- Python: The programming language used for the script. You can download and install Python from the official website: [https://www.python.org/](https://www.python.org/)
+
+
+## Contributing
+
+If you would like to contribute to Navagraha, please follow the [contribution guidelines](CONTRIBUTING.md).
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
